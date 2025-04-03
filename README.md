@@ -3,6 +3,8 @@
 
 An interactive AI Mental Health support chatbot application powered by multiple language models with support for both text and speech input.
 
+**Authors**: Digvijay Yadav,Manohar Mata,Vamsi Athota, Chandra Lekha Ganta.
+
 ## Features
 
 - Text-based chat interface for General and Stress related conversations
